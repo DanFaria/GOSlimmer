@@ -26,7 +26,7 @@ It requires:
 
 - -A full Gene Ontology file in either OBO or OWL format (see http://geneontology.org/page/download-ontology).
 - -A slim Gene Ontology file in either OBO or OWL format (see http://geneontology.org/page/download-ontology).
-- -A tabular annotation file in GAF (http://geneontology.org/page/download-annotations) format, BLAST2GO format, or a simple two-column table (e.g. from BioMart) with gene product ids in the first column and GO terms in the second one. This file can be GZipped.
+- -A tabular annotation file in GAF (http://geneontology.org/page/download-annotations) format, BLAST2GO format, or a simple two-column table (e.g. from BioMart) with gene product ids in the first column and GO terms in the second one.
 
 -----
 

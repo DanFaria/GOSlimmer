@@ -11,10 +11,10 @@ public class Main
 	//Get the GOSlimmer instance
 	private static GOSlimmer ea = GOSlimmer.getInstance();
 	
-	private static String goFile = "data/go_sub.obo";
-	private static String goSlimFile = "data/goslim_sub.obo";
-	private static String annotFile = "data/annot_sub.txt";
-	private static String slimAnnotFile = "data/annot_slim_sub.txt";
+	private static String goFile = null;
+	private static String goSlimFile = null;
+	private static String annotFile = null;
+	private static String slimAnnotFile = null;
 	
 	public static void main(String[] args)
 	{
