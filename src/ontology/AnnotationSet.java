@@ -8,13 +8,10 @@
 package ontology;
 
 import java.io.BufferedReader;
-import java.io.FileInputStream;
 import java.io.FileOutputStream;
 import java.io.FileReader;
 import java.io.IOException;
-import java.io.InputStreamReader;
 import java.io.PrintWriter;
-import java.util.zip.GZIPInputStream;
 
 import main.GOSlimmer;
 import util.Table2Set;
